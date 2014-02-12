@@ -21,6 +21,8 @@
 		EF88350C18AB4BF400E37AC8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF8834EE18AB4BF400E37AC8 /* UIKit.framework */; };
 		EF88351418AB4BF400E37AC8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EF88351218AB4BF400E37AC8 /* InfoPlist.strings */; };
 		EF88351618AB4BF400E37AC8 /* Star_TapTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF88351518AB4BF400E37AC8 /* Star_TapTests.m */; };
+		EF88352118AB4E4200E37AC8 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = EF88351F18AB4E4200E37AC8 /* star.png */; };
+		EF88352218AB4E4200E37AC8 /* star@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF88352018AB4E4200E37AC8 /* star@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		EF88351118AB4BF400E37AC8 /* Star TapTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Star TapTests-Info.plist"; sourceTree = "<group>"; };
 		EF88351318AB4BF400E37AC8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EF88351518AB4BF400E37AC8 /* Star_TapTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Star_TapTests.m; sourceTree = "<group>"; };
+		EF88351F18AB4E4200E37AC8 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
+		EF88352018AB4E4200E37AC8 /* star@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +116,8 @@
 		EF8834F018AB4BF400E37AC8 /* Star Tap */ = {
 			isa = PBXGroup;
 			children = (
+				EF88351F18AB4E4200E37AC8 /* star.png */,
+				EF88352018AB4E4200E37AC8 /* star@2x.png */,
 				EF8834F918AB4BF400E37AC8 /* STAppDelegate.h */,
 				EF8834FA18AB4BF400E37AC8 /* STAppDelegate.m */,
 				EF8834FC18AB4BF400E37AC8 /* Main.storyboard */,
@@ -230,6 +236,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF88350318AB4BF400E37AC8 /* Images.xcassets in Resources */,
+				EF88352218AB4E4200E37AC8 /* star@2x.png in Resources */,
+				EF88352118AB4E4200E37AC8 /* star.png in Resources */,
 				EF8834F518AB4BF400E37AC8 /* InfoPlist.strings in Resources */,
 				EF8834FE18AB4BF400E37AC8 /* Main.storyboard in Resources */,
 			);

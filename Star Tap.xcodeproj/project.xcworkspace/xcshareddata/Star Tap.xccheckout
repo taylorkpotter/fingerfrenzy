@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E5A2B7C2-8313-4597-A0A4-DB9DE4F0D807</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Star Tap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA8E35DA-854A-4F2F-9DC0-34A180052188</key>
+		<string>ssh://clemdev.com/git/Star%20Tap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Star Tap.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA8E35DA-854A-4F2F-9DC0-34A180052188</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://clemdev.com/git/Star%20Tap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA8E35DA-854A-4F2F-9DC0-34A180052188</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA8E35DA-854A-4F2F-9DC0-34A180052188</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Star Tap</string>
+		</dict>
+	</array>
+</dict>
+</plist>
